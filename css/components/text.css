@@ -1,0 +1,24 @@
+.text {
+	padding: 20px;
+	display: inline;
+	align-items: center;
+	justify-content: space space-between;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 10px;
+	flex-basis: 250px;
+	flex-grow: 1;
+
+}
+.text h5 {
+	font-weight: lighter;
+	display: flex;
+	display: list-item;
+	font-color: D2C1C9;
+}
+.text h4 {
+	font-weight: lighter;
+}
+.text h6{
+	font-weight: lighter;
+}
